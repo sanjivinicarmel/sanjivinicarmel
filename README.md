@@ -34,8 +34,7 @@ Hi there! 👋 I'm **Sanjivini**, an enthusiastic data science explorer currentl
 ---
 I 'm always eager to collaborate on exciting projects and learn from the vibrant GitHub community. Let's connect and build something amazing together! 🌟
 
-###📬 Contact:
+📬 Contact:
 
 -Email: sanjivini.chowdhury@msds.christuniversiy.in
--LinkedIn: Sanjivini Chowdhury
--HackerRank:
+
