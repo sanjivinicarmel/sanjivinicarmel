@@ -31,10 +31,11 @@ Hi there! 👋 I'm **Sanjivini**, an enthusiastic data science explorer currentl
 - OpenAI Generative Pretrained Transformer
 - AWS Academy Cloud Foundations
 
-- I 'm always eager to collaborate on exciting projects and learn from the vibrant GitHub community. Let's connect and build something amazing together! 🌟
+---
+I 'm always eager to collaborate on exciting projects and learn from the vibrant GitHub community. Let's connect and build something amazing together! 🌟
 
 📬 Contact:
 
--Email: sanjivini.chowdhury@msds.christuniversiy.in
--LinkedIn: Sanjivini Chowdhury
--HackerRank:
+Email: sanjivini.chowdhury@msds.christuniversiy.in
+LinkedIn: Sanjivini Chowdhury
+HackerRank:
