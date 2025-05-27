@@ -35,6 +35,6 @@ Hi there! 👋 I'm **Sanjivini**, an enthusiastic data science explorer currentl
 
 📬 Contact:
 
-Email: sanjivini.chowdhury@msds.christuniversiy.in
-LinkedIn: Sanjivini Chowdhury
-HackerRank:
+-Email: sanjivini.chowdhury@msds.christuniversiy.in
+-LinkedIn: Sanjivini Chowdhury
+-HackerRank:
