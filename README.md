@@ -11,7 +11,7 @@ Hi there! 👋 I'm **Sanjivini**, an enthusiastic data science explorer currentl
 
 ### 📚 Education:
 - 🎓 MSc Data Science, Christ University, Bangalore (2024-2026)
-- 🎓 Bachelor of Vocation in Data Scince , Mount Carmel College , Bangalore (2020-2023)
+- 🎓 Bachelor of Vocation in Data Science , Mount Carmel College , Bangalore (2020-2023)
 
 ---
 
@@ -34,8 +34,8 @@ Hi there! 👋 I'm **Sanjivini**, an enthusiastic data science explorer currentl
 ---
 I 'm always eager to collaborate on exciting projects and learn from the vibrant GitHub community. Let's connect and build something amazing together! 🌟
 
-📬 Contact:
+###📬 Contact:
 
-Email: sanjivini.chowdhury@msds.christuniversiy.in
-LinkedIn: Sanjivini Chowdhury
-HackerRank:
+-Email: sanjivini.chowdhury@msds.christuniversiy.in
+-LinkedIn: Sanjivini Chowdhury
+-HackerRank:
